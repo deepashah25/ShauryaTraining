@@ -249,12 +249,9 @@ namespace ConsoleApp6.collection
             d1.Add(102, "Om");
             d1.Add(103, "Om");
 
-            ICollection<int> cc=d1.Keys;
            
 
-            foreach(int key in cc)
-                Console.WriteLine(key+" "+d1[key]);
-
+          
 
 
         }

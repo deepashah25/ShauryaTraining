@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>ConsoleApp6.collection.DemoHashset</StartupObject>
+    <StartupObject>ConsoleApp6.collection.Class4</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
